@@ -1,5 +1,3 @@
-
-
 #include <SoftwareSerial.h>
 //1번
 #define TRIG1 13 //TRIG 핀 설정 (초음파 보내는 핀)
